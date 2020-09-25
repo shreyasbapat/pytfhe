@@ -1,2 +1,3 @@
-# DeepSEAL
-Deep Learning on SEAL Encrypted Data
+# pytfhe
+
+Python Wrapper for [TFHE Project](https://github.com/tfhe/tfhe)
